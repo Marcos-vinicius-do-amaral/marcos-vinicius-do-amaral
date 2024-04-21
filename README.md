@@ -18,7 +18,7 @@
  
 <div> 
   <a href="https://instagram.com/amaral.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/marcosviniciusdoamaral" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://wa.me/message/7HXRS527KKUUD1" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-7289DA?style=for-the-badge&logo=whatsappd&logoColor=green" target="_blank"></a> 
   <a href = "mailto:formatacao.marcos.amaral@outlook.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-vinicius-do-amaral-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
